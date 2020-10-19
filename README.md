@@ -1,5 +1,5 @@
 # SPOTIFY CLONE
-[spotify clone](https://musicspotifyclone.netlify.app/)
+[spotify clone Live click here](https://musicspotifyclone.netlify.app/)
 
 
 ## Available Scripts
