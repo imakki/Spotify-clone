@@ -1,4 +1,4 @@
-#SPOTIFY CLONE
+# SPOTIFY CLONE
 [spotify clone](https://musicspotifyclone.netlify.app/)
 
 
